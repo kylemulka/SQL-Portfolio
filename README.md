@@ -1,5 +1,5 @@
 # SQL-Portfolio
-This is a DVD Rentals dataset with a large schema consisting of 15 tables that I did exploratory query analysis on. 
+This is a DVD Rentals dataset with a large schema consisting of 15 tables that I performed exploratory data analysis on. 
 
 The schema has primary and foreign keys than enable us to join tables together and explore endless possible results.
 
