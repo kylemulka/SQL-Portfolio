@@ -5,6 +5,6 @@ The schema has 15 tables with primary and foreign keys than enable us to join th
 
 I created questions that I believe are complex and are realistic questions that Data Analysts need to answer.
 
-In these questions, I demonstrate my ability to use window functions, multi-joins, CTEs, subqueries, and more.
+In these questions, I demonstrate my ability to use window functions, multi-joins, CTEs, subqueries, conditionals, and more.
 
 Please reference the "DVD Rental Schema.pdf" file to see the full schema
